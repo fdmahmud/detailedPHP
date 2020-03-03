@@ -12,7 +12,11 @@
 <body>
 	<?php
 
-
+$a = '123213';
+echo trim($a). "<br>"; 
+var_dump(trim($a));
+echo "<br>";
+echo $a;
 
 
 	?>
